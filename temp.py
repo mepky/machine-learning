@@ -1,13 +1,15 @@
 # -*- coding: utf-8 -*-
 '''
-Spyder Editor
-importing library
+#praveen kumar
+#Indian institute of information technology kalyani
 Data preprocessing
 
 '''
+#importing library
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+#importing dataset
 dataset=pd.read_csv('C:/Users/praveen/Desktop/machine-learning udemy a-z/Data_Preprocessing/Data.csv')
 x=dataset.iloc[:, :-1].values
 y=dataset.iloc[:, :3].values

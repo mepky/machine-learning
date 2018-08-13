@@ -1,0 +1,11 @@
+#Here in model selection section we learn which model we have to use for good accuracy 
+
+
+
+#Grid search 
+It works to find the best way that is which parameter should be used and what should be the kernel value like that thing
+for achive higher accurecy
+
+
+#K-fold cross validation
+This is best classification algorithm for high achive algorithm 
